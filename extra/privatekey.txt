@@ -1,2 +1,0 @@
-Private Key WIF format is  KzAgNwewTrqRqVyy13YtzDGmJcSDA7mGsBZEt7V9ZRHd1K2U3qvh
-Your bitcoin address is  1N2izvQLmkA2QhbDFEB7hxag6G4qLR2971

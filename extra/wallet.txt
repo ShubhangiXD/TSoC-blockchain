@@ -1,0 +1,47 @@
+{
+  data: {
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjE4MTgyMDIsImlhdCI6MTcxOTIyNjIwMiwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiMzFjZDAzZWEtMDJhMy00YjE5LTg5ZjgtYWI0ODUwZjdhMDRkIiwibmJmIjoxNzE5MjI2MjAyLCJzdWIiOiJkN2E0NTY0MC0wZmM5LTQ5MDYtYWVlNy1jN2IwNjYzNDg1NjgiLCJ1c2VyX2lkIjoiZDdhNDU2NDAtMGZjOS00OTA2LWFlZTctYzdiMDY2MzQ4NTY4In0.d_7rJzy8ZHUtC5OKiJWh1-IewQbbU9v04A49ysXq874",
+    expiresAt: "2024-07-24T10:50:02Z",
+  },
+  status_code: 200,
+}
+{
+  data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 989,
+      summary: 989,
+      count: 2,
+    },
+  },
+  status_code: 200,
+}
+initiating wallet
+{
+  data: {
+    paymailID: "2570@dev.neucron.io",
+    walletID: "87672ae5-1381-4cbe-aa74-5f0f22cb7558",
+  },
+  status_code: 200,
+}
+{
+  data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 989,
+      summary: 989,
+      count: 2,
+    },
+  },
+  status_code: 200,
+}
+{
+  data: {
+    addresses: [ "148UYrmdXv1oL6F7DVUtsfthZqY9AAW96a", "143MZHBtxLhwhAcAsCTGSTRSRXrcNDc4te",
+      "1NCiVTbhf92XRpnzLwvx5zuu5AXGBZyHUe", "14vqvmw8wBULMa598PHqeAShNUqGFtdxvB", "1DKJbtxvM2Z6iWNtdQsin3aqcbh2q2nXt2",
+      "12ciVebmEwjGaWf2QB2qirnNb51zw6CV8T", "1P5TenbMyQpHYBNiSBTiq7Y6qjbLv5QZMC", "1BA4oecaNkzQNbo2jvPhMLwkJNiuDDTEHU",
+      "158EYiNxDkUTGM4MAwLFY3dN2pKHoaLtm1", "159VvS9LtNoG3n5i3wMYX6Q2nyroydM7Fx"
+    ],
+  },
+  status_code: 200,
+}

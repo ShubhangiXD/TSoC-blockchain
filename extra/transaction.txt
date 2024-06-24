@@ -1,0 +1,24 @@
+{
+  data: {
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjE4MTc5OTQsImlhdCI6MTcxOTIyNTk5NCwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiM2U1MzBiYmYtYTA1OC00ZDA0LTliMjItZTJkODY3YjJjZjAzIiwibmJmIjoxNzE5MjI1OTk0LCJzdWIiOiJkN2E0NTY0MC0wZmM5LTQ5MDYtYWVlNy1jN2IwNjYzNDg1NjgiLCJ1c2VyX2lkIjoiZDdhNDU2NDAtMGZjOS00OTA2LWFlZTctYzdiMDY2MzQ4NTY4In0.9kCJXoiPdtPuisQ4AQo7MVNEGAR8tBeZv9MZOJc1HjY",
+    expiresAt: "2024-07-24T10:46:34Z",
+  },
+  status_code: 200,
+}
+{
+  data: {
+    balance: {
+      confirmed: 1000,
+      unconfirmed: 0,
+      summary: 1000,
+      count: 1,
+    },
+  },
+  status_code: 200,
+}
+{
+  data: {
+    txid: "a70ada549ee6c11cfd262772cb16b5345069bd50c1ec7fd2a70c51128991c6fa",
+  },
+  status_code: 200,
+}
